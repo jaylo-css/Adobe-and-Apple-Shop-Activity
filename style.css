@@ -1,0 +1,82 @@
+.text {
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.adobe {
+    height: 30px;
+    vertical-align: middle;
+}
+
+#watch {
+    color: white;
+    background-color: black;
+    border-radius: 20px;
+    border: none;
+    width: 100px;
+    height: 40px;
+    cursor: pointer;
+    font-weight: bold;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+
+}
+
+#watch:hover {
+    background-color: green;
+    color: black;
+}
+
+#learn {
+    color: black;
+    border-radius: 20px;
+    border: solid black 1px;
+    width: 100px;
+    height: 40px;
+    cursor: pointer;
+    font-weight: bold;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+}
+
+#learn:hover {
+    background-color: green;
+    color: black;
+}
+
+.apple {
+    height: 50px;
+    margin-top: 200px;
+}
+
+.apple_container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+#lower_text {
+    color: white;
+}
+
+.text_container {
+    background-color: red;
+    display: flex;
+    justify-content: center;
+    margin-top: 15px;
+}
+
+#shopnow {
+    color: white;
+    text-decoration: none;
+}
+
+#shopnow:hover {
+    text-decoration: underline;
+
+}
